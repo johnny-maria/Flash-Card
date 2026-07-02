@@ -2,9 +2,9 @@
 // Troque disciplina, pergunta e resposta pelos conteúdos que você criou.
 
 criaCartao(
-    'Disciplina 1',
-    'Pergunta 1',
-    'Resposta 1'
+    'Programação',
+    'O que é Markdown',
+    'Padrão de escrita'
 )
 
 criaCartao(
