@@ -2,14 +2,14 @@
 // Troque disciplina, pergunta e resposta pelos conteúdos que você criou.
 
 criaCartao(
-   'Disciplina 1',
-    'Pergunta 1',
-    'Resposta 1'
+   'Português',
+    'O que é uma resenha?',
+    'É um gẽnero textual que descreve e avalia criticamente uma obra.'
 )
 
 criaCartao(
-    'Disciplina 2',
-    'Pergunta 2',
+    'Português',
+    'O que e um poema',
     'Resposta 2'
 )
 
